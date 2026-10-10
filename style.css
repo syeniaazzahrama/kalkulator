@@ -5,6 +5,12 @@ body {
     height: 100vh;
     background-color: pink;
     font-family: Helvetica;
+    flex-direction: column;
+    margin: 0;
+}
+
+.syenia {
+    color: #f83c6b;
 }
 
 .kalkulator {
