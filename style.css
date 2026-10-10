@@ -7,6 +7,7 @@ body {
     font-family: Helvetica;
     flex-direction: column;
     margin: 0;
+    padding: 0;
 }
 
 .syenia {
